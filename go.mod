@@ -1,4 +1,4 @@
-module github.com/tooolbox/raven-go
+module github.com/cockroachdb/raven-go
 
 go 1.13
 
